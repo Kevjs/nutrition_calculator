@@ -1,0 +1,257 @@
+[
+  {
+    "ingredient": "Almond Flour",
+    "brand": "Bakers Corner (Aldis)",
+    "amount": "2 Tbsp",
+    "nutrition": {
+      "Calories": 90,
+      "Fats": {
+        "Total": 7,
+        "Saturated Fat": 0.5,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 0,
+      "Sodium": 0,
+      "Carbs": {
+        "Total": 3,
+        "Fiber": 2,
+        "Sugars": 1
+      },
+      "Protein": 3
+    }
+  },
+  {
+    "ingredient": "Egg",
+    "brand": "",
+    "amount": "1",
+    "nutrition": {
+      "Calories": 70,
+      "Fats": {
+        "Total": 5,
+        "Saturated Fat": 1.5,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 195,
+      "Sodium": 65,
+      "Carbs": {
+        "Total": 0.6,
+        "Fiber": 0,
+        "Sugars": 0
+      },
+      "Protein": 6
+    }
+  },
+  {
+    "ingredient": "Monk Fruit",
+    "brand": "Lakanto",
+    "amount": "1 Tsp",
+    "nutrition": {
+      "Calories": 0,
+      "Fats": {
+        "Total": 0,
+        "Saturated Fat": 0,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 0,
+      "Sodium": 0,
+      "Carbs": {
+        "Total": 4,
+        "Fiber": 0,
+        "Sugars": 4
+      },
+      "Protein": 0
+    }
+  },
+  {
+    "ingredient": "Cocoa Powder",
+    "brand": "Hershey's",
+    "amount": "1 Tbsp",
+    "nutrition": {
+      "Calories": 10,
+      "Fats": {
+        "Total": 0.5,
+        "Saturated Fat": 0,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 0,
+      "Sodium": 0,
+      "Carbs": {
+        "Total": 3,
+        "Fiber": 2,
+        "Sugars": 0
+      },
+      "Protein": 1
+    }
+  },
+  {
+    "ingredient": "Butter",
+    "brand": "",
+    "amount": "1 Tbsp",
+    "nutrition": {
+      "Calories": 100,
+      "Fats": {
+        "Total": 11.9,
+        "Saturated Fat": 7,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 30,
+      "Sodium": 0,
+      "Carbs": {
+        "Total": 0,
+        "Fiber": 0,
+        "Sugars": 0
+      },
+      "Protein": 0
+    }
+  },
+  {
+    "ingredient": "Coconut Flour",
+    "brand": "",
+    "amount": "2 Tbsp",
+    "nutrition": {
+      "Calories": 60,
+      "Fats": {
+        "Total": 2,
+        "Saturated Fat": 2,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 0,
+      "Sodium": 10,
+      "Carbs": {
+        "Total": 8,
+        "Fiber": 6,
+        "Sugars": 2
+      },
+      "Protein": 2
+    }
+  },
+  {
+    "ingredient": "Baking Powder",
+    "brand": "",
+    "amount": "1 Tsp",
+    "nutrition": {
+      "Calories": 2,
+      "Fats": {
+        "Total": 0,
+        "Saturated Fat": 0,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 0,
+      "Sodium": 488,
+      "Carbs": {
+        "Total": 1.3,
+        "Fiber": 0,
+        "Sugars": 0
+      },
+      "Protein": 0
+    }
+  },
+  {
+    "ingredient": "Baking Soda",
+    "brand": "",
+    "amount": "1 Tsp",
+    "nutrition": {
+      "Calories": 0,
+      "Fats": {
+        "Total": 0,
+        "Saturated Fat": 0,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 0,
+      "Sodium": 1259,
+      "Carbs": {
+        "Total": 0,
+        "Fiber": 0,
+        "Sugars": 0
+      },
+      "Protein": 0
+    }
+  },
+  {
+    "ingredient": "Mozzarella",
+    "amount": "1/4 Cup",
+    "brand": "Happy Farms",
+    "nutrition": {
+      "Calories": 80,
+      "Fats": {
+        "Total": 6,
+        "Saturated Fat": 3,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 15,
+      "Sodium": 180,
+      "Carbs": {
+        "Total": 2,
+        "Fiber": 0,
+        "Sugars": 1
+      },
+      "Protein": 6
+    }
+  },
+  {
+    "ingredient": "Yogurt",
+    "Sub Category": ["Whole Milk", "Plain", "Organic"],
+    "brand": "Simply Nature",
+    "amount": "3/4 Cup",
+    "nutrition": {
+      "Calories": 120,
+      "Fats": {
+        "Total": 7,
+        "Saturated Fat": 4.5,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 25,
+      "Sodium": 85,
+      "Carbs": {
+        "Total": 9,
+        "Fiber": 0,
+        "Sugars": 7
+      },
+      "Protein": 6
+    }
+  },
+  {
+    "ingredient": "Cream Cheese",
+    "Sub Category": ["Original"],
+    "brand": "Phildelphia",
+    "amount": "2 Tbsp",
+    "nutrition": {
+      "Calories": 80,
+      "Fats": {
+        "Total": 7,
+        "Saturated Fat": 4.5,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 20,
+      "Sodium": 125,
+      "Carbs": {
+        "Total": 2,
+        "Fiber": 0,
+        "Sugars": 1
+      },
+      "Protein": 2
+    }
+  },
+  {
+    "ingredient": "Salt",
+    "Sub Category": [],
+    "brand": "Generic",
+    "amount": "1 Tsp",
+    "nutrition": {
+      "Calories": 0,
+      "Fats": {
+        "Total": 0,
+        "Saturated Fat": 0,
+        "Trans Fat": 0
+      },
+      "Cholesterol": 0,
+      "Sodium": 2325,
+      "Carbs": {
+        "Total": 0,
+        "Fiber": 0,
+        "Sugars": 0
+      },
+      "Protein": 0
+    }
+  }
+]
